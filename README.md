@@ -1,8 +1,4 @@
-Perfect 😎
-Let’s make your **GitHub-ready README** for the **JavaScript (Node.js)** version of your AuthSecure app.
 
-Below is a clean, professional, and easy-to-follow **English README.md**,
-ready for direct upload to your GitHub repo 👇
 
 ---
 
